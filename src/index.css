@@ -1,0 +1,22 @@
+:root {
+  color: rgba(255, 255, 255, 0.87);
+  
+}
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  background-image: url("images/catGallery.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.galleryText{
+  font-size: 1.5rem;
+  margin: 0;
+  padding: 0;
+}
