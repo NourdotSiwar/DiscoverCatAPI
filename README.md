@@ -33,11 +33,11 @@ GIF created with ...  LiceCap
 
 ## Notes
 
-- [X] Getting started with the project, solved by starting with the UI 
-- [X] Getting information of breed from API, solved by adding parameter or has_breed=true
-- [X] Struggled with clicking an attribute to add to the ban list, solved by utilizing GitHub CoPilot
-- [X] Struggled with changing/editing/modifying query parameter to add and remove breeds in accordance to user, solved by adding a dictionary of breeds.
-- [ ] Struggled with displaying multiple attributes, as in more than just the breed, such as weight or origin country.
+* Getting started with the project, solved by starting with the UI 
+* Getting information of breed from API, solved by adding parameter or has_breed=true
+* Struggled with clicking an attribute to add to the ban list, solved by utilizing GitHub CoPilot
+* Struggled with changing/editing/modifying query parameter to add and remove breeds in accordance to user, solved by adding a dictionary of breeds.
+* Struggled with displaying multiple attributes, as in more than just the breed, such as weight or origin country.
 
 ## License
 
